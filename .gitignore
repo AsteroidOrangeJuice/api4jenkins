@@ -107,3 +107,6 @@ venv.bak/
 
 # mac os related
 .DS_Store
+
+# jetbrains
+*.iml
